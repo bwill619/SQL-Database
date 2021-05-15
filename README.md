@@ -1,2 +1,2 @@
 # SQL-Database
-SQL database for course project
+SQL database for course project.
